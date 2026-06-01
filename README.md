@@ -6,7 +6,7 @@
 -->
 
 
-- 🔭 I’m currently working on scalable CDN and DNS solutions at Sotoon.
+- 🔭 I’m currently working on scalable CDN and DNS solutions at [Sotoon](https://www.linkedin.com/company/sotoon/).
 - 🧠 I have strong experience in system design, software architecture, clean code, CI/CD, testability, and refactoring large-scale systems.
 - 🌱 I’m currently deepening my knowledge of Linux and Networking.
 - 💬 Ask me about system design, algorithm, and data structure, Golang, .NET, NodeJS, JavaScript, Angular, and web technologies
